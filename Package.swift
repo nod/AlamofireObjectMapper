@@ -1,5 +1,5 @@
 
-// temporary hack
+// added purely for swift package manager hackery
 
 import PackageDescription
 
